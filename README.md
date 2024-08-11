@@ -1,6 +1,6 @@
-###  ✨ Welcome to py_treasury ✨
+###  ✨ Welcome to py_treasury! ✨
 
-👾 This is a catalog containing my milestone projects from my coursework. 👾
+👾 This is a catalog containing all my milestone projects from my coursework. 👾
 
 
 FIN.
